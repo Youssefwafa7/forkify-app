@@ -1,7 +1,7 @@
-Forkify
+#Forkify
 Forkify is a recipe application built using HTML, CSS, and JavaScript, following the MVC (Model-View-Controller) architecture. The app enables users to search for recipes, display results, bookmark favorites, and even upload their own recipes. The application also features various performance enhancements to ensure a smooth user experience.
 
-Features
+##Features
 Search for Recipes: Users can search for recipes by entering a keyword in the search bar.
 Display Search Results: The app shows a list of recipe results based on the user's search query.
 View Detailed Recipe: Users can select a recipe from the search results, which will render detailed recipe information, including ingredients and preparation steps.
@@ -33,7 +33,7 @@ git clone https://github.com/your-username/forkify.git
 cd forkify
 Open index.html in your browser to run the app.
 ```
-Usage
+##Usage
 Use the search bar to enter a keyword (e.g., "pizza", "pasta") and hit the search button.
 Click on a recipe from the search results to view detailed instructions and ingredients.
 Adjust the number of servings using the buttons to update ingredient quantities.

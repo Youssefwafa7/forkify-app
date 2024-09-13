@@ -1,4 +1,4 @@
-# Forkify
+# [Forkify](https://forkify-wafa.netlify.app/)
 Forkify is a recipe application built using HTML, CSS, and JavaScript, following the MVC (Model-View-Controller) architecture. The app enables users to search for recipes, display results, bookmark favorites, and even upload their own recipes. The application also features various performance enhancements to ensure a smooth user experience.
 
 ## Features
